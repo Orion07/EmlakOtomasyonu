@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmLand.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/abstracts/AApartmentsandoffices.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmLogin.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/interfaces/ICustomers.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmCustomer.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/interfaces/ILands.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/interfaces/IApartmentsandoffices.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/database/Apartmentsandoffices.hbm.xml</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmApartment.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmEstate.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/database/Customers.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmCustomerModify.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmEditApartment.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmEditLand.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/database/Lands.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/functions/HibernateUtil.java</file>
+            <file>file:/C:/Users/Orion/Desktop/Emlakv2/Emlakv2/Emlak/src/forms/frmHakkinda.java</file>
+        </group>
+    </open-files>
+</project-private>

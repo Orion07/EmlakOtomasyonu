@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated May 13, 2016 8:31:22 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="database.Apartmentsandoffices" table="apartmentsandoffices" catalog="hibernate" optimistic-lock="version">
+        <id name="id" type="int">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="date" type="date">
+            <column name="date" length="10" not-null="true" />
+        </property>
+        <property name="m2" type="int">
+            <column name="m2" not-null="true" />
+        </property>
+        <property name="roomcount" type="int">
+            <column name="roomcount" not-null="true" />
+        </property>
+        <property name="buildingage" type="int">
+            <column name="buildingage" not-null="true" />
+        </property>
+        <property name="heating" type="int">
+            <column name="heating" not-null="true" />
+        </property>
+        <property name="dues" type="int">
+            <column name="dues" not-null="true" />
+        </property>
+        <property name="floor" type="java.lang.Integer">
+            <column name="floor" />
+        </property>
+        <property name="totalfloor" type="java.lang.Integer">
+            <column name="totalfloor" />
+        </property>
+        <property name="bathroomcount" type="java.lang.Integer">
+            <column name="bathroomcount" />
+        </property>
+        <property name="furniture" type="java.lang.Boolean">
+            <column name="furniture" />
+        </property>
+        <property name="price" type="int">
+            <column name="price" not-null="true" />
+        </property>
+        <property name="address" type="int">
+            <column name="address" not-null="true"/>
+        </property>
+        <property name="state" type="int">
+            <column name="state" not-null="true"/>
+        </property>
+        <property name="type" type="int">
+            <column name="type" not-null="true"/>
+        </property>
+        <property name="cid" type="int">
+            <column name="cid" not-null="true"/>
+        </property>        
+    </class>
+</hibernate-mapping>

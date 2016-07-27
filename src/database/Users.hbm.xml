@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated May 13, 2016 8:31:22 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="database.Users" table="users" catalog="hibernate" optimistic-lock="version">
+       <id name="id" type="string">
+            <column name="id" length="50" />
+        </id>
+        <property name="password" type="string">
+            <column name="password" length="50" />
+        </property>
+        <property name="uid" type="java.lang.Integer">
+            <column name="uid" />
+        </property>
+    </class>
+</hibernate-mapping>
